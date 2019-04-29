@@ -1,0 +1,22 @@
+.banquet .left { float:left; font-size:18px; margin-top:0; padding:6px 14px 0 12px; color:#002853; }
+.banquet .right { float:left; font-size:12px; font-weight:bold; padding:8px 0 0 0; color:#002853; line-height:1.2; }
+.banquet span { font-family:Arial, sans-serif; font-size:11px; font-weight:normal; color:#000000; }
+.deadline p { font-size:11px; }
+
+.nav li { padding:6px 16px 0 16px; line-height:18px; }
+.submenu { left:16px; margin-top:24px; }
+
+.copy { width:570px; }
+.copy p { width:540px; }
+.sidebar { width:320px; }
+
+.meet-now,.group .meet-now,.learn-more { height:34px; }
+
+.goals { background:#f7f4ef; width:500px;}
+
+.trustees { width:234px; height:470px; }
+.board li { width:124px; min-height:210px; padding:0 16px 0 0; }
+
+.footer { width:968px; }
+.footer .footer-nav { min-height:1px; }
+.footer .footer-nav li { line-height:18px; }
