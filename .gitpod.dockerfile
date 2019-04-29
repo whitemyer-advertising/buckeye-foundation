@@ -57,7 +57,7 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -yq \
 USER gitpod
 # use sudo so that user does not get sudo usage info on (the first) login
 RUN sudo echo "Running 'sudo' for Gitpod: success"
-RUN sudo service apache2 start
+EXPOSE 80
 
 ### checks ###
 # no root-owned files in the home directory
